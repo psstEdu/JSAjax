@@ -21,7 +21,7 @@
     </script>
 </head>
 <body>
-<form action="post">
+<form action="" method="post">
     <table>
         <tr>
             <td>Select District</td>
